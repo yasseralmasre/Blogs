@@ -1,2 +1,2 @@
 # Blogs
-Django project about some blogs
+NodeJs ,express project about some blogs
